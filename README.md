@@ -1,60 +1,48 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Ji-min's+GitHub!👋)](https://git.io/typing-svg)
- 
-<div align="left">
+<h1 align="center">👋 Hi there, I'm JiMin Lee!</h1>
 
-<h3 align="left">Hi 👋, I'm Ji Min Lee</h3>
-<h3 align="left">dreaming of becoming an Data Scientist, AI Researcher.</h3>
+<p align="center">
+  🇰🇷 Aspiring AI Developer & Data Scientist<br>
+  📚 Major in <b>AI Big Data & Management, Data Science</b><br>
+  🌟 Interested in <b>Multimodal Learning · Generative AI · LLM · Computer Vision</b>
+</p>
 
-<br>
+---
 
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
-</summary>
-   <br>
+## ✨ About Me
+- 🧩 I believe every experience is a puzzle piece shaping my future.
+- 🚀 I'm passionate about exploring cutting-edge AI technologies and building meaningful projects.
+- 📄 You can learn more about me on **[my Notion portfolio](https://your-notion-link.com)**.
 
-</details>
+---
 
-<br>
+## 📬 Contact
+| Platform | Info |
+|----------|------|
+| 📧 Email | **dlwlals922@kookmin.ac.kr** |
 
-## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+---
 
-<br>
-<br>
+## 🛠 Technical Skills
 
-## 📚 Studying 📚
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-<div align="left">
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<br>
+### Data / AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-## 🛠 Tools 🛠
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-<div align="left">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
+### Dev Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS&nbsp;Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-<br>
+---
 
-## 📫 Contact 📫
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-<div align="left">
-  <a href="https://velog.io/@">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:a01071306445@gmail.com">
-    <img
-      src="https://img.shields.io/badge/dlwlals922@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
-
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zziman&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zziman&layout=compact&theme=tokyonight&h
