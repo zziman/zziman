@@ -2,7 +2,7 @@
 
 Aspiring AI Developer & Data Scientist  
 
-📚 Major in ***AI Big Data & Management*** · Minor in **Computer Science**  
+📚 Major in **AI Big Data & Management** · Minor in **Computer Science**  
 🌟 Interested in **Multimodal Learning · Generative AI · LLM · Computer Vision**
 
 If you'd like to know more about me, please visit my
@@ -11,9 +11,6 @@ If you'd like to know more about me, please visit my
 </a>
 
 Feel free to reach out anytime: dlwlals922@kookmin.ac.kr
-
-
-<hr style="height:1px; border:none; background-color:#eee; margin:24px 0;" />
 
 
 ### 🛠 Tech Stack 
