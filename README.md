@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm JiMin Lee!
+# 👋 Hi there, I'm Jimin Lee!
 
 Aspiring AI Developer & Data Scientist  
 📚 Major in **AI Big Data & Management**  
