@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Jimin Lee!
+<hr style="height:0.5px; border:none; background-color:#eee; margin:16px 0;" />
 
 Aspiring AI Developer & Data Scientist  
 
