@@ -2,7 +2,7 @@
 
 Aspiring AI Developer & Data Scientist  
 
-📚 Major in **AI Big Data & Management** · Minor in **Computer Science**  
+📚 Major in ***AI Big Data & Management*** · Minor in **Computer Science**  
 🌟 Interested in **Multimodal Learning · Generative AI · LLM · Computer Vision**
 
 If you'd like to know more about me, please visit my
