@@ -5,11 +5,15 @@ Aspiring AI Developer & Data Scientist
 📚 Major in **AI Big Data & Management** · Minor in **Computer Science**  
 🌟 Interested in **Multimodal Learning · Generative AI · LLM · Computer Vision**
 
-If you'd like to know more about me, please visit my [Notion portfolio](https://your-notion-link.com).
+If you'd like to know more about me, please visit my
+<a href="https://your-notion-link.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" height="30"/>
+</a>
+
 Feel free to reach out anytime: dlwlals922@kookmin.ac.kr
 
 
-<hr style="height:1px; border:none; background-color:#ddd; margin:24px 0;" />
+<hr style="height:1px; border:none; background-color:#eee; margin:24px 0;" />
 
 
 ### 🛠 Tech Stack 
