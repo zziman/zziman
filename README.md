@@ -11,7 +11,8 @@ Feel free to reach out anytime: dlwlals922@kookmin.ac.kr
 
 
 ### Tech Stack  
-<hr style="height:0.5px; border:none; background-color:#eee; margin:16px 0;" />  
+<hr style="height:0.5px; border:none; background-color:#eee; margin:16px 0;" />
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -19,4 +20,5 @@ Feel free to reach out anytime: dlwlals922@kookmin.ac.kr
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
