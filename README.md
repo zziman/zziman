@@ -6,7 +6,7 @@ Aspiring AI Developer & Data Scientist
 • **Minor**: Computer Science  
 • Interested in **Multimodal Learning**, **Computer Vision**, Generative AI, LLM
 
-You can find more about me on ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)(https://your-notion-link.com)
+You can find more about me on ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)(https://your-notion-link.com)    
 Feel free to reach out anytime: dlwlals922@kookmin.ac.kr
 
 
