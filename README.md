@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jimin Lee!
 
-Aspiring AI Developer & Data Scientist  
+Aspiring AI Engineer & Data Scientist  
 
 • Major: **AI Big Data & Management**  
 • Minor: **Computer Science**  
